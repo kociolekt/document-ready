@@ -1,0 +1,23 @@
+{
+  "name": "document-ready",
+  "version": "1.0.0",
+  "description": "jQuery document ready method in ES6 module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kociolekt/document-ready.git"
+  },
+  "keywords": [
+    "document",
+    "ready"
+  ],
+  "author": "kociolekt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kociolekt/document-ready/issues"
+  },
+  "homepage": "https://github.com/kociolekt/document-ready#readme"
+}
